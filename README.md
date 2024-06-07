@@ -5,3 +5,6 @@ Iniciamos o site anunciando mouses, teclados, headsets e microfones. Mas quem sa
 Caso queira olhar nosso site e adquirir nossos produtos irei deixa-los abaixo:
 
 https://peritech.netlify.app/
+
+Também gravamos um video apresentando nosso site aos detalhes, confira no link:
+https://youtu.be/plPkjGDyZco
